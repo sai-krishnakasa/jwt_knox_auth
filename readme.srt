@@ -1,0 +1,3 @@
+Link for the article:
+
+https://www.section.io/engineering-education/api-authentication-with-django-knox-and-postman-testing/#:~:text=API%20Django-Knox%20is%20a%20framework%20that%20makes%20the,Django-Knox%20comes%20with%20well-detailed%20documentation%20for%20easy%20implementation.
